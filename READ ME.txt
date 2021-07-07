@@ -1,0 +1,13 @@
+Site Upload/Download fichiers (cours) pour enseignants/étudiants
+
+***********
+
+Ne pas oublier de créer une base de donnée nommée "projet_redac" et y importer le fichier SQL "projet_redac.sql".
+ 
+***********
+Connexion enseignant :
+
+Nom : Malik Si Mohammed
+Mdp : malik123
+
+Deux autres comptes sont présents dans la base de données.
